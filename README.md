@@ -1,5 +1,8 @@
 # README
-- plum_forest_qt.py: 人工模拟放块程序源码，可直接run，开盖即食（指路：可执行文件exe在打卡群）
+- 2025.9.6更新：
+<img width="1804" height="1087" alt="image" src="https://github.com/user-attachments/assets/219a4b2b-df76-45d6-bd75-eec64880e08e" />
+
+
 ```shell
-python plum_forest_qt.py
+python main.py
 ```
